@@ -1,0 +1,19 @@
+{
+  "name": "micro-gql-lambda",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "wadakenji",
+  "license": "MIT",
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "micro": "^9.3.4",
+    "serverless-http": "^2.5.0"
+  },
+  "devDependencies": {
+    "micro-dev": "^3.0.0"
+  },
+  "scripts": {
+    "dev": "yarn micro-dev",
+    "start": "yarn micro"
+  }
+}
