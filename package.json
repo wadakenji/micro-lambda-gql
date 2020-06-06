@@ -5,7 +5,7 @@
   "author": "wadakenji",
   "license": "MIT",
   "dependencies": {
-    "apollo-server-micro": "^2.13.1",
+    "apollo-server-micro": "^2.14.2",
     "graphql-tools": "^5.0.0",
     "http": "^0.0.1-security",
     "micro": "^9.3.4",
